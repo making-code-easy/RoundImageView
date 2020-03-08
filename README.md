@@ -27,3 +27,6 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 ```
+## To Understand in detail watch this video
+[![Round Image View Android](http://img.youtube.com/vi/N8oMiYevG9w/0.jpg)](http://www.youtube.com/watch?v=N8oMiYevG9w)
+
